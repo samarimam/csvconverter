@@ -15,7 +15,7 @@ function Dashboard() {
                     File 2
                 </button>
             </a>
-            <h1>sddsddds</h1>
+            <h1>Dashboard</h1>
         </div>
     )
 }
